@@ -5,13 +5,14 @@
 
 In this project I chose ResNet and trained it on a MRI Brain Tumor dataset availiable on kaggle.
 
-## 
-- Brain tumors affect ~300,000 people globally each year (WHO).
-- In many regions, there is **<1 radiologist per 100,000 people**.
+## why brain tumor classification
+- we all know how important it is to diagnose tumors early.
+- Doctors and hospitals can use AI to decrease mistakes and increase awarness.
 - Early and accurate diagnosis improves survival rates by up to 40%.
+- Also it was fun to work on a project that can save lifes.
 - **Goal**: Provide a **transparent, reliable screening tool** to prioritize urgent cases.
 
-## Features
+##📌  Features
 -  4-class classification: `glioma`, `meningioma`, `pituitary`, `no tumor`
 -  **the dataset has a total of 3264 images which is divided into 2,870 (Training) + 394 (Testing)
 -  **Grad-CAM visualizations** – see *where* the model looks (must run app.py)
@@ -26,3 +27,4 @@ In this project I chose ResNet and trained it on a MRI Brain Tumor dataset avail
 
 ## ResNet structure
 <img width="850" height="404" alt="ResNet-18-architecture-and-training-stages-We-build-Head-layers-on-top-of-the-ResNet-18" src="https://github.com/user-attachments/assets/74b8d47c-2824-4bb9-8801-64b21cfbd586" />
+
