@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+kagglehub
+gradio>=4.0
+numpy
+matplotlib
+scikit-learn
+PyYAML
+opencv-python
