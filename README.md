@@ -4,7 +4,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
 
 In this project I chose ResNet and trained it on a MRI Brain Tumor dataset availiable on kaggle.
-## Clinical Motivation
+
+## 
 - Brain tumors affect ~300,000 people globally each year (WHO).
 - In many regions, there is **<1 radiologist per 100,000 people**.
 - Early and accurate diagnosis improves survival rates by up to 40%.
@@ -22,3 +23,6 @@ In this project I chose ResNet and trained it on a MRI Brain Tumor dataset avail
 <img width="4470" height="1466" alt="training_curves" src="https://github.com/user-attachments/assets/5d56f7c7-ea90-4565-89b9-d71ab610ad6e" />
 
 - there is a little bit of overfitting.
+
+## ResNet structure
+<img width="850" height="404" alt="ResNet-18-architecture-and-training-stages-We-build-Head-layers-on-top-of-the-ResNet-18" src="https://github.com/user-attachments/assets/74b8d47c-2824-4bb9-8801-64b21cfbd586" />
