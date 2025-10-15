@@ -24,6 +24,8 @@ In this project I chose ResNet and trained it on a MRI Brain Tumor dataset avail
 <img width="4470" height="1466" alt="training_curves" src="https://github.com/user-attachments/assets/5d56f7c7-ea90-4565-89b9-d71ab610ad6e" />
 
 - there is a little bit of overfitting.
-- but i managed to get 81.71% accuracy on this dataset which the most loss happens with the gloima tumor.
+- I managed to get 81.71% accuracy on this dataset which the most loss happens with the gloima tumor.
+- 
 ## ResNet structure
 <img width="850" height="404" alt="ResNet-18-architecture-and-training-stages-We-build-Head-layers-on-top-of-the-ResNet-18" src="https://github.com/user-attachments/assets/74b8d47c-2824-4bb9-8801-64b21cfbd586" />
+
