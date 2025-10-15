@@ -1,8 +1,7 @@
-# 🧠 NeuroAssist: Explainable Brain Tumor Classification for Clinical Decision Support
+MRI Brain Tumor classification using ResNet18
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 An **explainable, lightweight deep learning system** for classifying brain tumors from MRI scans, designed to assist radiologists in low-resource settings.
 
@@ -38,4 +37,5 @@ An **explainable, lightweight deep learning system** for classifying brain tumor
 
 ### 1. Install
 ```bash
+
 pip install -r requirements.txt
